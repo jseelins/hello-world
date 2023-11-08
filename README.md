@@ -1,1 +1,1 @@
-# hello-world
+repositório criado para fins de aprendizado e aperfeiçoamento!
